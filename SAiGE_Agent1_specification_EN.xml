@@ -13,7 +13,7 @@
     <responsibilities>
       <item>Automatically reads emails and attachments from approved mailboxes of SPIG-GMAB companies worldwide.</item>
       <item>Identifies the customer, the product and the stated needs.</item>
-      <item>Determines which company the request concerns and selects the area: NEW SPIG, Service SPIG or GMAB.</item>
+      <item>Determines which company the request concerns and selects the area: NEW SPIG, Service SPIG or GMAB NEW Systems, Service GAMB and ADIOX.</item>
       <item>Converts the communication into a structured request, with a link to the original email and documents.</item>
       <item>Opens the GATE in SAiGE and gathers the available documentation.</item>
       <item>Proposes the action plan: what the customer is asking for and what actions SPIG-GMAB needs to take.</item>
